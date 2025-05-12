@@ -1,0 +1,6 @@
+--cpu Cortex-M0 -g --apcs=interwork 
+-I.\RTE\_test1
+-ID:\keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include
+-ID:\keil\ARM\PACK\Keil\STM32F0xx_DFP\2.1.1\Drivers\CMSIS\Device\ST\STM32F0xx\Include
+--pd "__UVISION_VERSION SETA 524" --pd "_RTE_ SETA 1" --pd "STM32F042x6 SETA 1"
+--list startup_stm32f042x6.lst --xref -o test1\startup_stm32f042x6.o --depend test1\startup_stm32f042x6.d "startup_stm32f042x6.s"
