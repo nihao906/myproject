@@ -1,0 +1,10 @@
+
+
+RF_nv\RF_NV_T\RF_LTE_NV_T\LTE_Temperature_Compensation\TX_Compensation\TX_Compensation[5]\tx_comp[8]=0x10
+RF_nv\RF_NV_T\RF_LTE_NV_T\LTE_Temperature_Compensation\TX_Compensation\TX_Compensation[5]\tx_comp[9]=0x12
+RF_nv\RF_NV_T\RF_LTE_NV_T\LTE_Temperature_Compensation\TX_Compensation\TX_Compensation[5]\tx_comp[10]=0x14
+RF_nv\RF_NV_T\RF_LTE_NV_T\LTE_Temperature_Compensation\TX_Compensation\TX_Compensation[5]\tx_comp[11]=0x16
+RF_nv\RF_NV_T\RF_Common_NV_T\SYSCTRL\TX_Channel_Delay\tx_channel_delay[0]=0xFF7B
+RF_nv\RF_NV_T\RF_Common_NV_T\SYSCTRL\TX_Channel_Delay\tx_channel_delay[1]=0xFF7B
+RF_nv\RF_NV_T\RF_LTE_NV_T\LTE_APT\APT[2]\apt_fix_dac=0x3E3
+RF_nv\RF_NV_T\RF_LTE_NV_T\LTE_APT\APT[2]\APT_Seg_DAC\APT_Seg_DAC[0]=0x3E3

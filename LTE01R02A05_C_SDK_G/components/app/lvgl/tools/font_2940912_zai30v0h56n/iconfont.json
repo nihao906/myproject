@@ -1,0 +1,51 @@
+{
+  "id": "2940912",
+  "name": "setting",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "17523086",
+      "name": "配置-系统配置",
+      "font_class": "peizhi-xitongpeizhi",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "1015891",
+      "name": "about",
+      "font_class": "about",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1119364",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "6057725",
+      "name": "流量计",
+      "font_class": "liuliangji",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "18324481",
+      "name": "物体距离",
+      "font_class": "wutijuli",
+      "unicode": "e8a9",
+      "unicode_decimal": 59561
+    },
+    {
+      "icon_id": "25397413",
+      "name": "仪器校准",
+      "font_class": "yiqixiaozhun",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    }
+  ]
+}

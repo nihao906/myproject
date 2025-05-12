@@ -1,0 +1,26 @@
+
+///////////////////////////////////////////// IMS /////////////////////////////////////////////
+// Value in Session-Expire (Sec)
+PS_NV_PARAMS\NV_PARAM_TYPE_SIM_DELTA_NV\ims_sim_nvinfo\sip_sessionTimer=1800
+
+// MT call no answer timer after send 180 (Sec)
+PS_NV_PARAMS\NV_PARAM_TYPE_SIM_DELTA_NV\ims_sim_nvinfo\RingingTimer=40
+
+// MO call no answer timer after receive 180 (Sec)
+PS_NV_PARAMS\NV_PARAM_TYPE_SIM_DELTA_NV\ims_sim_nvinfo\RingbackTimer=40
+
+//The Conference server URI.
+//If not set, UE will generate one according to TS23.003 with format:
+//  sip:mmtel@conf-factory.[domain]
+PS_NV_PARAMS\NV_PARAM_TYPE_SIM_DELTA_NV\ims_sim_nvinfo\conf_uri="sip:IMSI@ims.mnc010.mcc212.3gppnetwork.org"
+
+//The BSF server URI.
+//If not set, UE will generate one according to TS23.003 with format:
+//  bsf.mnc***.mcc###.pub.3gppnetwork.org:[ss_BsfPort]
+PS_NV_PARAMS\NV_PARAM_TYPE_SIM_DELTA_NV\ims_sim_nvinfo\ss_BsfUri="bsf.mnc***.mcc###.pub.3gppnetwork.org"
+
+//The XCAP server URI.
+//If not set, UE will generate one according to TS23.003 with format:
+//  xcap.mnc***.mcc###.pub.3gppnetwork.org:[ss_XcapPort]
+PS_NV_PARAMS\NV_PARAM_TYPE_SIM_DELTA_NV\ims_sim_nvinfo\ss_XcapUri="xcap.mnc***.mcc###.pub.3gppnetwork.org"
+

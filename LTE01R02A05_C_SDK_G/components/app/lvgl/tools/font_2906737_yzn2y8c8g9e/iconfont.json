@@ -1,0 +1,23 @@
+{
+  "id": "2906737",
+  "name": "light_btn",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "284054",
+      "name": "操作_亮度",
+      "font_class": "hekriconliangdu",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "1297942",
+      "name": "操作_自动亮度",
+      "font_class": "caozuo_zidongliangdu",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    }
+  ]
+}

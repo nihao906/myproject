@@ -1,0 +1,142 @@
+{
+  "id": "3003073",
+  "name": "sys_status",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "24051390",
+      "name": "gps_1",
+      "font_class": "gps_1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "24053447",
+      "name": "gps_1",
+      "font_class": "gps_11",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "145731",
+      "name": "添加sim卡_填充",
+      "font_class": "tianjiasimqiatianchong",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "145749",
+      "name": "sim故障_填充",
+      "font_class": "simguzhangtianchong",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "145750",
+      "name": "sim卡_填充",
+      "font_class": "simqiatianchong",
+      "unicode": "e6aa",
+      "unicode_decimal": 59050
+    },
+    {
+      "icon_id": "2519828",
+      "name": "联网状态",
+      "font_class": "lianwangzhuangtai",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "2519940",
+      "name": "联网状态-断开",
+      "font_class": "lianwangzhuangtai-duankai",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "4148199",
+      "name": "联网状态-出错",
+      "font_class": "lianwangzhuangtai-chucuo",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "8808187",
+      "name": "连接状态",
+      "font_class": "lianjiezhuangtai",
+      "unicode": "e6b8",
+      "unicode_decimal": 59064
+    },
+    {
+      "icon_id": "13206927",
+      "name": "GPS信号",
+      "font_class": "tubiao-GPSxinhao",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "13304527",
+      "name": "GPS信号 4格",
+      "font_class": "tubiao-GPSxinhaoge",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "13304536",
+      "name": "GPS信号 3格",
+      "font_class": "tubiao-GPSxinhaoge1",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "13304541",
+      "name": "GPS信号 2格",
+      "font_class": "tubiao-GPSxinhaoge2",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "13304544",
+      "name": "GPS信号 1格",
+      "font_class": "tubiao-GPSxinhaoge3",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "19835401",
+      "name": "信号-4",
+      "font_class": "xinhao-4",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "20542627",
+      "name": "信号4-2",
+      "font_class": "xinhao4-2",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "20542628",
+      "name": "信号4-0",
+      "font_class": "xinhao4-0",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "20542630",
+      "name": "信号4-3",
+      "font_class": "xinhao4-3",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "20542631",
+      "name": "信号4-1",
+      "font_class": "xinhao4-1",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    }
+  ]
+}
