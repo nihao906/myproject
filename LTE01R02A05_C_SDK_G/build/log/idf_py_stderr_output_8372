@@ -1,7 +1,0 @@
-
- target dir: D:/eg800g/800g/LTE01R02A05_C_SDK_G/components/ql-config/build//
-
-CMake Error at CMakeLists.txt:150 (message):
-  BUILD_TARGET is empty
-
-
