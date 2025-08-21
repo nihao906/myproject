@@ -1,0 +1,12 @@
+..\obj\init.o: init.c
+..\obj\init.o: stm32f10x.h
+..\obj\init.o: ..\CORE\core_cm3.h
+..\obj\init.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\init.o: system_stm32f10x.h
+..\obj\init.o: stm32f10x_conf.h
+..\obj\init.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\obj\init.o: ..\USER\stm32f10x.h
+..\obj\init.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\init.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\init.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\init.o: ..\STM32F10x_FWLib\inc\misc.h

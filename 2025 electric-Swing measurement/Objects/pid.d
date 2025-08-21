@@ -1,0 +1,13 @@
+.\objects\pid.o: pid.c
+.\objects\pid.o: .\USER\stm32f10x.h
+.\objects\pid.o: .\CORE\core_cm3.h
+.\objects\pid.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\pid.o: .\USER\system_stm32f10x.h
+.\objects\pid.o: .\USER\stm32f10x_conf.h
+.\objects\pid.o: .\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+.\objects\pid.o: .\USER\stm32f10x.h
+.\objects\pid.o: .\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+.\objects\pid.o: .\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+.\objects\pid.o: .\STM32F10x_FWLib\inc\stm32f10x_usart.h
+.\objects\pid.o: .\STM32F10x_FWLib\inc\misc.h
+.\objects\pid.o: pid.h

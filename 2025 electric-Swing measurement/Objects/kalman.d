@@ -1,0 +1,17 @@
+.\objects\kalman.o: Kalman.c
+.\objects\kalman.o: .\USER\stm32f10x.h
+.\objects\kalman.o: .\CORE\core_cm3.h
+.\objects\kalman.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\kalman.o: .\USER\system_stm32f10x.h
+.\objects\kalman.o: .\USER\stm32f10x_conf.h
+.\objects\kalman.o: .\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+.\objects\kalman.o: .\USER\stm32f10x.h
+.\objects\kalman.o: .\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+.\objects\kalman.o: .\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+.\objects\kalman.o: .\STM32F10x_FWLib\inc\stm32f10x_usart.h
+.\objects\kalman.o: .\STM32F10x_FWLib\inc\misc.h
+.\objects\kalman.o: .\STM32F10x_FWLib\inc\stm32f10x_i2c.h
+.\objects\kalman.o: MPU6050_Reg.h
+.\objects\kalman.o: MPU6050.h
+.\objects\kalman.o: D:\keil\ARM\ARMCC\Bin\..\include\math.h
+.\objects\kalman.o: Kalman.h

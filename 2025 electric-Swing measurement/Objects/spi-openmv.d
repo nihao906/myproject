@@ -1,0 +1,13 @@
+.\objects\spi-openmv.o: SPI-OpenMv.c
+.\objects\spi-openmv.o: .\USER\stm32f10x.h
+.\objects\spi-openmv.o: .\CORE\core_cm3.h
+.\objects\spi-openmv.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\spi-openmv.o: .\USER\system_stm32f10x.h
+.\objects\spi-openmv.o: .\USER\stm32f10x_conf.h
+.\objects\spi-openmv.o: .\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+.\objects\spi-openmv.o: .\USER\stm32f10x.h
+.\objects\spi-openmv.o: .\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+.\objects\spi-openmv.o: .\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+.\objects\spi-openmv.o: .\STM32F10x_FWLib\inc\stm32f10x_usart.h
+.\objects\spi-openmv.o: .\STM32F10x_FWLib\inc\misc.h
+.\objects\spi-openmv.o: .\STM32F10x_FWLib\inc\stm32f10x_spi.h

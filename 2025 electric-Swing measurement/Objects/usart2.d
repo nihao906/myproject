@@ -1,0 +1,14 @@
+.\objects\usart2.o: HARDWARE\usart2.c
+.\objects\usart2.o: HARDWARE\usart2.h
+.\objects\usart2.o: .\USER\stm32f10x.h
+.\objects\usart2.o: .\CORE\core_cm3.h
+.\objects\usart2.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\usart2.o: .\USER\system_stm32f10x.h
+.\objects\usart2.o: .\USER\stm32f10x_conf.h
+.\objects\usart2.o: .\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+.\objects\usart2.o: .\USER\stm32f10x.h
+.\objects\usart2.o: .\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+.\objects\usart2.o: .\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+.\objects\usart2.o: .\STM32F10x_FWLib\inc\stm32f10x_usart.h
+.\objects\usart2.o: .\STM32F10x_FWLib\inc\misc.h
+.\objects\usart2.o: HARDWARE\jy61p.h

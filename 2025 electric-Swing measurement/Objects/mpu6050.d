@@ -1,0 +1,14 @@
+.\objects\mpu6050.o: MPU6050.c
+.\objects\mpu6050.o: .\USER\stm32f10x.h
+.\objects\mpu6050.o: .\CORE\core_cm3.h
+.\objects\mpu6050.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mpu6050.o: .\USER\system_stm32f10x.h
+.\objects\mpu6050.o: .\USER\stm32f10x_conf.h
+.\objects\mpu6050.o: .\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+.\objects\mpu6050.o: .\USER\stm32f10x.h
+.\objects\mpu6050.o: .\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+.\objects\mpu6050.o: .\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+.\objects\mpu6050.o: .\STM32F10x_FWLib\inc\stm32f10x_usart.h
+.\objects\mpu6050.o: .\STM32F10x_FWLib\inc\misc.h
+.\objects\mpu6050.o: .\STM32F10x_FWLib\inc\stm32f10x_i2c.h
+.\objects\mpu6050.o: MPU6050_Reg.h
